@@ -2,8 +2,6 @@
 
 import os
 
-from numpy import outer
-
 # Roteiro
 # 1- Criar pastas
 # 2- Ler arquivos
